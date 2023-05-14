@@ -1,4 +1,4 @@
-# Capstone Project Proposal - DataLens
+# Capstone Project Proposal
 
 ## Overview & Goals
 The goal of this project is to develop a web-based data visualization platform that provides interactive and customizable data visualizations without requiring users to log into a Tableau server. The platform will allow users to create custom views, explore different data visualizations (such as bar charts, line graphs, box and whisker plots, etc.), and utilize filters and drilldowns for enhanced data analysis. By achieving this goal, I aim to provide an accessible and user-friendly data visualization solution that can benefit my company and improve data analysis processes.
