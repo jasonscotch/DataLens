@@ -7,7 +7,7 @@ The goal of this project is to develop a web-based data visualization platform t
 The target users of the platform will primarily consist of employees within our company and our clients who require data visualization capabilities for analysis and reporting purposes. The demographic will likely include individuals with varying levels of technical expertise and familiarity with data visualization tools. Therefore, the platform should be designed to accommodate users with diverse skill sets and provide a seamless user experience.
 
 ## Specifications
-For this project, I plan to utilize the Spotify API as a data source to demonstrate the capabilities of the interactive data visualization platform but want to keep this flexible in order to connect to other data sources in the future. The Spotify API offers a wide range of data related to music, including user playlists, song attributes, artist information, and user listening history. By leveraging this API, we can showcase various visualizations and explore meaningful insights within the music domain.
+For this project, I plan to utilize the Spotify API as a data source to demonstrate the capabilities of the interactive data visualization platform but want to keep this flexible in order to connect to other data sources in the future. The Spotify API offers a wide range of data related to music, including user playlists, song attributes, artist information, and user listening history. By leveraging this API, we can showcase various visualizations and explore meaningful insights within the music domain. API [here](https://api.spotify.com/v1)
 
 ## Approach
 
